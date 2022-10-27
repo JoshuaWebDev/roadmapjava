@@ -8,13 +8,19 @@ Plano de Estudos para Programação em Java
 
 **Iniciante**
 
+- [ ] [Introdução a Plataforma Java](https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
+- [ ] [Ambiente de Desenvolvimento Java](https://web.dio.me/course/ambiente-de-desenvolvimento-java/learning/c88e693f-67ca-4885-a1d1-0069da2aef10?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 - [ ] [Configurando Ambiente de Desenvolvimento Java no Linux](https://web.dio.me/course/configurando-ambiente-de-desenvolvimento-java-no-linux/learning/0668bbda-e32e-44bc-9100-d9dd781bdf8f)
 - [ ] [Dominando IDEs Java](https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84)
 - [ ] [Introdução ao Ecossistema e Documentação Java](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
+- [ ] [Aprendendo a Sintaxe Java](https://web.dio.me/course/aprendendo-a-sintaxe-java/learning/f7af647f-d6ef-4663-8a3c-1f63129ee55f?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 - [ ] [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://web.dio.me/course/variaveis-tipos-de-dados-e-operadores-matematicos-em-java/learning/d687771f-76cd-4379-9e1f-1c529c44e15b)
 - [ ] [Lógica Condicional e Controle de Fluxos em Java](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42)
+- [ ] [Lógica Condicional e Controle de Fluxos em Java](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 - [ ] [Estruturas de Repetição e Arrays em Java](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c)
+- [ ] [Estruturas de Repetição e Arrays em Java](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 - [ ] [Entendendo Métodos Java](https://web.dio.me/course/entendendo-metodos-java/learning/1d32857c-8137-4b87-8a1c-474300f71648)
+- [ ] [Entendendo Métodos Java](https://web.dio.me/course/entendendo-metodos-java/learning/1d32857c-8137-4b87-8a1c-474300f71648?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined)
 
 **Intermediário**
 
