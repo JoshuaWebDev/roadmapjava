@@ -30,6 +30,8 @@ Plano de Estudos para Programação em Java
 
 - [ ] [Programação Orientada a Objetos](https://web.dio.me/course/programacao-orientada-a-objetos/learning/ff0c41a5-8adc-496c-8ff7-7ae1f83ffa49)
 - [ ] [Praticando Orientação à Objetos com Java](https://web.dio.me/course/praticando-orientacao-a-objetos-com-java/learning/bd32419b-9081-4426-ad13-e6d380e93443)
+- [ ] [Java e Tratamento de Exceções](https://web.dio.me/course/java-e-tratamento-de-excecoes/learning/21c8a7d5-38ab-4531-ad0b-fc31ea0bef43)
+- [ ] [Java e Tratamento de Exceções](https://web.dio.me/course/java-e-tratamento-de-excecoes/learning/21c8a7d5-38ab-4531-ad0b-fc31ea0bef43?back=/track/santander-2024-backend-com-java)
 - [ ] [Tratamento de Exceções em Java](https://web.dio.me/course/tratamento-de-excecoes-em-java/learning/8ab022fe-7c0e-41bc-95de-daedca653d7c)
 
 **Avançado**
