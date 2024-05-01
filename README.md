@@ -34,7 +34,7 @@ Plano de Estudos para Programação em Java
 - [X] [Java e Tratamento de Exceções](https://web.dio.me/course/java-e-tratamento-de-excecoes/learning/21c8a7d5-38ab-4531-ad0b-fc31ea0bef43?back=/track/santander-2024-backend-com-java)
 - [ ] [Tratamento de Exceções em Java](https://web.dio.me/course/tratamento-de-excecoes-em-java/learning/8ab022fe-7c0e-41bc-95de-daedca653d7c)
 - [ ] [Debugging Java](https://web.dio.me/course/debugging-java/learning/97fc1d8d-4f01-4856-a1a2-85c6117ccc75)
-- [ ] - [ ] [Debugging Java](https://web.dio.me/course/debugging-java/learning/97fc1d8d-4f01-4856-a1a2-85c6117ccc75?back=/track/santander-2024-backend-com-java&tab=path&moduleId=undefined)
+- [ ] [Debugging Java](https://web.dio.me/course/debugging-java/learning/97fc1d8d-4f01-4856-a1a2-85c6117ccc75?back=/track/santander-2024-backend-com-java&tab=path&moduleId=undefined)
 
 **Avançado**
 
